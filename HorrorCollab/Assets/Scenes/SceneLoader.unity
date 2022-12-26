@@ -300,6 +300,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -315,6 +316,52 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: _SCENELOADER
+      objectReference: {fileID: 0}
+    - target: {fileID: 3021880972353244024, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: SceneInfos.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3021880972353244024, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: SceneInfos.Array.data[0].LevelName
+      value: Office of Evil
+      objectReference: {fileID: 0}
+    - target: {fileID: 3021880972353244024, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: SceneInfos.Array.data[0].Background
+      value: 
+      objectReference: {fileID: 21300000, guid: d8e56ca7a5ecc5e42a52ed6f8eb3022c,
+        type: 3}
+    - target: {fileID: 3021880972353244024, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: SceneInfos.Array.data[0].SceneBuildName
+      value: MainGame
+      objectReference: {fileID: 0}
+    - target: {fileID: 3021880972353244024, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: SceneInfos.Array.data[0].LevelDescription
+      value: Just when you thought work couldn't get worse...
+      objectReference: {fileID: 0}
+    - target: {fileID: 4471377013913168932, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: Tips.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4471377013913168932, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: Tips.Array.data[2].TipMessage
+      value: You can save your game in pause menu.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4471377013913168932, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: Tips.Array.data[3].TipMessage
+      value: Don't let your boss find you, or call HR Dept.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4471377013913168932, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
+        type: 3}
+      propertyPath: Tips.Array.data[4].TipMessage
+      value: You can save your game in pause menu.
       objectReference: {fileID: 0}
     - target: {fileID: 5368730163172809352, guid: b1aa73eb19c9acd41a7a3265a54a67f2,
         type: 3}

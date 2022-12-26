@@ -1,0 +1,88 @@
+{
+  "scene": "MainGame",
+  "levelName": "Office of Evil",
+  "levelNameKey": "",
+  "dateTime": "2022-12-26 19:11:58",
+  "playerData": {
+    "playerPosition": {
+      "x": 30.2745323,
+      "y": -376.1816,
+      "z": 15.7282906,
+      "normalized": {
+        "x": 0.08014957,
+        "y": -0.9959128,
+        "z": 0.041639477,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 377.725464,
+      "sqrMagnitude": 142676.531
+    },
+    "cameraRotation": {
+      "x": -215.8013,
+      "y": 47.40003,
+      "normalized": {
+        "x": -0.9767168,
+        "y": 0.214532554,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 220.945618,
+      "sqrMagnitude": 48816.9648
+    },
+    "characterState": 0,
+    "playerHealth": 100.0
+  },
+  "itemSwitcherData": {
+    "switcherActiveItem": -1,
+    "switcherWeaponItem": -1,
+    "switcher_item_flashlight": {
+      "FlashlightItem": {
+        "batteryPercentage": 100.0
+      }
+    },
+    "switcher_item_lantern": {
+      "LanternItem": {
+        "lightPercentage": 100.0,
+        "lightIntensity": 1.0,
+        "flameAlpha": 0.0
+      }
+    },
+    "switcher_item_candle": {
+      "CandleItem": {
+        "candleScale": 0.00113
+      }
+    },
+    "switcher_item_pistol": {
+      "WeaponController": {
+        "bulletsInMag": 7,
+        "uiShown": false
+      }
+    },
+    "switcher_item_shotgun": {
+      "WeaponController": {
+        "bulletsInMag": 7,
+        "uiShown": false
+      }
+    }
+  },
+  "inventoryData": {
+    "inv_slots_count": 10,
+    "slotsData": {
+      "inv_slot_0": "null",
+      "inv_slot_1": "null",
+      "inv_slot_2": "null",
+      "inv_slot_3": "null",
+      "inv_slot_4": "null",
+      "inv_slot_5": "null",
+      "inv_slot_6": "null",
+      "inv_slot_7": "null",
+      "inv_slot_8": "null",
+      "inv_slot_9": "null"
+    }
+  },
+  "objectivesData": {
+    "activeObjectives": {},
+    "touchedObjectives": {}
+  }
+}
