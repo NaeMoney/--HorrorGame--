@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 54
+  controlID: 112
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 44
+  controlID: 113
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 45
+  controlID: 114
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Horror FPS KIT/HFPS Assets/Content/Prefabs/Interactive/Other
+    - Assets/Horror FPS KIT/HFPS Assets/Content/Prefabs/Light
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Horror FPS KIT/HFPS Assets/Content/Prefabs/Interactive/Other
+  - Assets/Horror FPS KIT/HFPS Assets/Content/Prefabs/Light
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\clark\OneDrive\Desktop\Games Development\--HorrorGame--\HorrorCollab
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1351}
-    m_SelectedIDs: 548e0000
-    m_LastClickedID: 36436
-    m_ExpandedIDs: 00000000708b0000728b0000748b0000768b0000788b00007a8b00007c8b00007e8b0000808b0000828b0000848b0000fe8c0000048d0000228d0000248d0000268d0000288d00002c8d0000368d0000bc8d0000be8d0000c08d0000c88d0000d28d00004c8e00004e8e0000568e00005a9000005c9000005e90000060900000649000007c90000082900000c45e0100c65e0100560e020024ad020000ca9a3b
+    scrollPos: {x: 0, y: 1399}
+    m_SelectedIDs: 948f0000
+    m_LastClickedID: 36756
+    m_ExpandedIDs: 00000000a48e0000a68e0000a88e0000aa8e0000ac8e0000ae8e0000b08e0000b28e0000b48e0000b68e0000b88e0000ba8e0000bc8e0000be8e0000c08e0000c28e0000c48e0000c68e0000c88e0000ca8e0000cc8e0000ce8e0000d08e0000d28e0000d48e0000d68e0000d88e0000da8e0000dc8e0000de8e0000e08e0000e28e0000e48e0000e68e0000e88e0000ea8e0000ec8e0000f28e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000708b0000728b0000748b0000768b0000788b00007a8b00007c8b00007e8b0000808b0000828b0000848b0000
+    m_ExpandedIDs: 00000000a48e0000a68e0000a88e0000aa8e0000ac8e0000ae8e0000b08e0000b28e0000b48e0000b68e0000b88e0000ba8e0000bc8e0000be8e0000c08e0000c28e0000c48e0000c68e0000c88e0000ca8e0000cc8e0000ce8e0000d08e0000d28e0000d48e0000d68e0000d88e0000da8e0000dc8e0000de8e0000e08e0000e28e0000e48e0000e68e0000e88e0000ea8e0000ec8e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,24 +490,24 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c466faff
-      m_LastClickedID: 0
-      m_ExpandedIDs: f866faff0e67faff1867faff2067faff0a8dfaff148dfaff1c8dfaff9e9afaff40befbff7cdefbffc204fcff9e7ffcffa07ffcff6469feff6c69feff3ed6ffff04fbffff7aaf020092b2020014b402009eb5020020b702008aba020016cc020088d60200dad6020028d70200
+      scrollPos: {x: 0, y: 128}
+      m_SelectedIDs: 5a620000
+      m_LastClickedID: 25178
+      m_ExpandedIDs: 387fffff407ffffffe8affff30d4ffff3ad4ffff42d4ffff04fbffff026200005462000068620000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: NumberPadlock
+        m_OriginalName: NumberPadlock
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -11250
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -743,9 +743,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 10.602254, y: 1.1133418, z: -4.624249}
+    m_Target: {x: -10.318512, y: 11.135942, z: 1.7707744}
     speed: 2
-    m_Value: {x: 10.602254, y: 1.1133418, z: -4.624249}
+    m_Value: {x: -10.318512, y: 11.135942, z: 1.7707744}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -792,13 +792,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14973207, y: -0.6610059, z: 0.13693212, w: -0.7225084}
+    m_Target: {x: -0.013531348, y: 0.9669718, z: -0.24929512, w: -0.052845433}
     speed: 2
-    m_Value: {x: -0.14951773, y: -0.6620501, z: 0.13714851, w: -0.72147375}
+    m_Value: {x: -0.013904175, y: 0.96681494, z: -0.24925481, w: -0.05429153}
   m_Size:
-    m_Target: 5.3918576
+    m_Target: 0.8879396
     speed: 2
-    m_Value: 5.645924
+    m_Value: 0.84970295
   m_Ortho:
     m_Target: 0
     speed: 2
