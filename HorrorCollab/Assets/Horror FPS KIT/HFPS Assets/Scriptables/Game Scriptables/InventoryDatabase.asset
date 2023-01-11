@@ -1752,9 +1752,9 @@ MonoBehaviour:
     localizationSettings:
       titleKey: IItem.Title.DoorKey
       descriptionKey: IItem.Desc.DoorKey
-  - Title: Long Door Key
+  - Title: Cell Key
     ID: 32
-    Description: A long door key which can be used to unlock some door.
+    Description: A key used to unlock an individual jail cell
     itemType: 0
     useActionType: 0
     itemSprite: {fileID: 21300000, guid: 0388fbe6ebc20a742a727fd3447dd749, type: 3}
@@ -1782,7 +1782,7 @@ MonoBehaviour:
       doActionUse: 0
       doActionCombine: 0
     itemSounds:
-      useSound: {fileID: 0}
+      useSound: {fileID: 8300000, guid: 1d63549f07ace344e956be9da49b7ef4, type: 3}
       useVolume: 1
       combineSound: {fileID: 0}
       combineVolume: 1
